@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "header": "¿Qué es?",
+    "image": "https://res.cloudinary.com/dmz5jkqe6/image/upload/v1625536926/lbz524tdinmqixcw8knl.jpg",
+    "text": "Cuando hablamos de rendimiento y optimización resulta importante definir una forma en la que podamos hablar sobre que tan bueno o malo es un algoritmo para ciertos casos. Big-O nos permite clasificar todas las diferentes formas en las que crecen los algoritmos dependiendo de las entradas (input)."
+  },
+  "use_cases": {
+    "header": "¿Dónde lo encuentras?",
+    "image": "zoom",
+    "text": "Está presente en cualquier código que desarrollamos para resolver un problema. Big-O podría ayudarnos a definir como escala nuestro programa y si nuestro algoritmo es el adecuado para la situación."
+  },
+  "fundamentals": {
+    "header": "Fundamentos",
+    "image": "do",
+    "subblocks": [
+      {
+        "header": "Información previa",
+        "image": "zoom",
+        "text": "Tienes que tener en cuenta algo: Al hablar de la rapidez de un algoritmo no podemos simplificarlo con el tiempo, pues muchos algoritmos cambian su comportamiento al modificar el tamaño de la entrada. Algunos algoritmos funcionan bien con cantidades pequeñas de datos pero muy mal con cantidades grandes y viceversa."
+      },
+      {
+        "header": "¿Qué es un buen código?",
+        "image": "zoom",
+        "text": "Suele relacionarse con legibilidad, escalabilidad y rapidez. La rapidez en ocasiones está influenciada por el ordenador que estamos usando. Así que habría que estudiar como escala nuestro código y ahí Big-O nos podría ayudar. En lugar de calcular el tiempo de ejecución para medir su eficiencia, puede calcularse cuántas operaciones se realizan."
+      }
+    ]
+  },
+  "explanation": {
+    "subblocks": [
+      {
+        "header": "Explicacion",
+        "text": "lorkasndklasndkqwndmknqwdjkbefnebfnkqwdbnqwvbdnqwdqwvdqwdmqw dq, perdi este parrafo :("
+      },
+      {
+        "image": "https://res.cloudinary.com/dmz5jkqe6/image/upload/v1625536926/lbz524tdinmqixcw8knl.jpg"
+      }
+    ]
+  },
+  "classification": {
+    "header": "Clasificación",
+    "subblocks": [
+      {
+        "columns": [
+          {
+            "header": "O(1): Tiempo constante",
+            "text": "No importa cuán grande sea la entrada siempre hará la misma cantidad de operaci. Un ejemplo podría ser identificar el primer elemento de un arreglo."
+          },
+          {
+            "image": "https://res.cloudinary.com/dmz5jkqe6/image/upload/v1625543461/oldhgexsawqdvpkegihj.jpg"
+          }
+        ]
+      },
+      {
+        "columns": [
+          {
+            "header": "O(n): Tiempo lineal",
+            "text": "n denota el número de elementos o el tamaño de la entrada. Tiene tantas operaciones como elementos. Un ejemplo podría ser busccar algo en un arreglo de n elementos."
+          },
+          {
+            "image": "https://res.cloudinary.com/dmz5jkqe6/image/upload/v1625543450/ojmxaucu1woigwgiwwbl.jpg"
+          }
+        ]
+      },
+      {
+        "columns": [
+          {
+            "header": "O(n²): Tiempo cuadrático",
+            "text": "Incrementa cuadráticamente por cada elemento que se le añada a la entrada. Un ejemplo podría ser la implementación de un ciclo for anidado."
+          },
+          {
+            "image": "https://res.cloudinary.com/dmz5jkqe6/image/upload/v1625543436/bjxgtjwazuoc8uvyrcjr.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "additional_information": {
+    "header": "Información adicional",
+    "text": "recuernden que ustedes pueden modificar la estructura a gusto"
+  }
+}

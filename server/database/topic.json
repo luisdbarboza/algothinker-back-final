@@ -1,0 +1,17 @@
+{
+    "definition": {
+        "header": "Que es?",
+        "icon": "document",
+        "text": "lorem ipsum" 
+    },
+    "use_cases": {
+        "header": "Donde lo encuentras?",
+        "icon": "zoom",
+        "text": "En la vida real 0.0" 
+    },
+    "explanation": {
+        "header": "",
+        "icon": "do",
+        "text": "En la vida real 0.0" 
+    }
+}

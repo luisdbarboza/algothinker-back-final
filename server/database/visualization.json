@@ -1,0 +1,84 @@
+[
+  {
+    "name": "bubble",
+    "special": {
+      "iteration": 0,
+      "initial": 0,
+      "remaining": null,
+      "finished": false,
+      "markers": [],
+      "annotations": []
+    }
+  },
+  {
+    "name": "selection",
+    "special": {
+      "iteration": 0,
+      "lowPosition": 0,
+      "scanPosition": 1,
+      "remaining": null,
+      "markers": [],
+      "annotations": []
+    }
+  },
+  {
+    "name": "insertion",
+    "special": {
+      "iteration": 1,
+      "comparisonIndex": 0,
+      "finished": false,
+      "iterationItem": null,
+      "orderedItem": null,
+      "markers": []
+    }
+  },
+  {
+    "name": "linearSearch",
+    "special": {
+      "iteration": -1,
+      "finished": false,
+      "found": false,
+      "markers": []
+    }
+  },
+  {
+    "name": "binarySearch",
+    "special": {
+      "timesCalled": null,
+      "fullLength": null,
+      "startIndex": 0,
+      "started": false,
+      "target": 82,
+      "finished": false,
+      "found": false,
+      "markers": []
+    }
+  },
+  {
+    "name": "stack",
+    "special": {
+      "headIndex": null,
+      "markers": []
+    }
+  },
+  {
+    "name": "queue",
+    "special": { "markers": [] }
+  },
+  {
+    "name": "merge",
+    "special": {
+      "mode": null,
+      "started": false,
+      "sorted": false,
+      "historyStack": [],
+      "markers": []
+    }
+  }, 
+  {
+    "name": "linkedList",
+    "special": {
+      "markers": []
+    }
+  }
+]
