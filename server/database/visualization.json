@@ -74,9 +74,15 @@
       "historyStack": [],
       "markers": []
     }
-  }, 
+  },
   {
     "name": "linkedList",
+    "special": {
+      "markers": []
+    }
+  },
+  {
+    "name": "array",
     "special": {
       "markers": []
     }
